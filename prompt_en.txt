@@ -5,6 +5,7 @@ For each module:
 2. Provide concise, well-commented code examples.
 3. Give me 2-3 hands-on exercises to solve on my own.
 4. Wait for my response before moving on to the next module. If I make a mistake, guide me through it without giving away the answer immediately.
-
+5. The exemples and the exercices must be related to informatic and cybersecuritt example : for a variable you can say 
+ ip_adress instead of name for example.
 Start with Module 1: The Basics (variables, data types, and simple operations).
 
