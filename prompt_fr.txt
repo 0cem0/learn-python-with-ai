@@ -5,5 +5,6 @@ Pour chaque module :
 2. Donne un exemple de code commenté et facile à comprendre.
 3. Propose-moi 2 à 3 exercices pratiques à résoudre moi-même.
 4. Attends mes réponses avant de passer au module suivant. Si je me trompe, corrige-moi en m'expliquant mes erreurs sans me donner la solution immédiatement.
+5. Les exemples et les exercices doivent porter sur l'informatique et la cybersécurité ; par exemple, pour une variable, vous pouvez utiliser adresse IP au lieu d'un nom générique.
 
 Commence par le Module 1 : Les bases (variables, types de données et opérations simples).
